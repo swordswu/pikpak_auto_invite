@@ -22,7 +22,7 @@ PUSH_MSG = ''
 
 async def get_mail():
     #通过postman去调用接口获取邮箱，直接修改这个邮箱地址
-    mail='wt21d109ap3sb@vvatxiy.com'
+    mail='d2o6wwpuhpqfftrhbg@tidissajiiu.com'
     return mail
     
     # json_data = {
